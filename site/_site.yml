@@ -1,0 +1,6 @@
+name: "Pôle Santé Philippidès"
+output_dir: "../docs"
+output:
+  html_document:
+    theme: spacelab
+    css: styles.css
