@@ -10,6 +10,27 @@ NUTRITION - NATUROPATHIE - OSTEOPATHIE<br>
 34 090 Montpellier
 </div>
 
+```{r setup, echo=FALSE, message=FALSE}
+library(knitr)
+library(kableExtra)
+opts_chunk$set(
+	fig.align="center",
+	echo=TRUE,
+	message=FALSE,
+	warning=FALSE,
+	cache=TRUE,
+	cache.lazy=FALSE 
+)
+```
+
+```{r people}
+#tab1 <- read.table("tables/people.txt",sep=",",header=TRUE)
+# names(tab1) <- c("Product","Source","Variable derived","Unit","Resolution (m)")
+# Kable
+#knitr::kable(tab1, linesep="") %>%
+#  kable_styling(bootstrap_options = c("striped"))
+```
+
 # Julie DIBON
 
 Diététicienne-Naturopathe<br>
