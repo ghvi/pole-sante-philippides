@@ -1,5 +1,5 @@
 ---
-title: "Pôle Santé Philippidès à Montpellier"
+title: "Pôle Santé Philippidès"
 ---
 
 <img class="banner" src="images/Montpellier_banner.jpg" alt="banner">
@@ -31,9 +31,19 @@ opts_chunk$set(
 #  kable_styling(bootstrap_options = c("striped"))
 ```
 
-# Julie DIBON
+<div class="people_list">
 
-Diététicienne-Naturopathe<br>
+<div class="people">
+<div class="name">Julie DIBON</div>
+<p>Diététicienne-Naturopathe<br>
 06 29 37 22 64<br>
 dibonjulie(at)gmail(dot)com<br>
-<https://dieteticienne-naturopathe.com>
+<https://dieteticienne-naturopathe.com></p>
+</div>
+
+<div class="people">
+<div class="name">Alexandre OLIVE</div>
+<p>Ostéopathe D.O.<br></p>
+</div>
+
+</div>
