@@ -1,10 +1,10 @@
 ---
-title: "Pôle Santé Philippidès"
+title: "Pôle Santé Philippidès à Montpellier"
 ---
 
 <img class="banner" src="images/Montpellier_banner.jpg" alt="banner">
 
-<div id="intro">
+<div class="intro">
 NUTRITION - NATUROPATHIE - OSTEOPATHIE<br>
 41, av Bouisson Bertrand<br>
 34 090 Montpellier
