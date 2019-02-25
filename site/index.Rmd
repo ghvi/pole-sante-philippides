@@ -9,7 +9,6 @@ NUTRITION - NATUROPATHIE - OSTEOPATHIE<br>
 41, av Bouisson Bertrand<br>
 34 090 Montpellier
 </div>
-<br>
 
 ```{r setup, echo=FALSE, message=FALSE}
 library(knitr)
