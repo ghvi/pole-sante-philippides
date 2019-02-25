@@ -3,12 +3,13 @@ title: "Pôle Santé Philippidès"
 ---
 
 <img class="banner" src="images/Montpellier_banner.jpg" alt="banner">
-
+<br>
 <div class="intro">
 NUTRITION - NATUROPATHIE - OSTEOPATHIE<br>
 41, av Bouisson Bertrand<br>
 34 090 Montpellier
 </div>
+<br>
 
 ```{r setup, echo=FALSE, message=FALSE}
 library(knitr)
@@ -32,7 +33,6 @@ opts_chunk$set(
 ```
 
 <div class="people_list">
-
 <div class="people">
 <div class="name">Julie DIBON</div>
 <p>Diététicienne-Naturopathe<br>
@@ -40,13 +40,13 @@ opts_chunk$set(
 dibonjulie(at)gmail(dot)com<br>
 <https://dieteticienne-naturopathe.com></p>
 </div>
-
 <div class="people">
 <div class="name">Alexandre OLIVE</div>
-<p>Ostéopathe D.O.<br></p>
+<p>Ostéopathe D.O.</p>
+</div>
 </div>
 
-</div>
+<br>
 
 ```{r map, echo=FALSE}
 library(leaflet)
