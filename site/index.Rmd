@@ -47,3 +47,12 @@ dibonjulie(at)gmail(dot)com<br>
 </div>
 
 </div>
+
+```{r map, echo=FALSE}
+library(leaflet)
+m <- leaflet() %>%
+	addTiles() %>%  # Add default OpenStreetMap map tiles
+	addMarkers(lng=3.8706, lat=43.6189, popup="Pôle Santé Philippidès")
+m  # Print the map
+```
+

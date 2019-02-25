@@ -29,6 +29,7 @@ h6 {
 }
 .people_list {
   column-count: 2;
+  margin: auto;
 }
 .people p{
   /* display: inline-block; width: 100%; */
@@ -41,4 +42,7 @@ h6 {
 .name {
   font-size: 32px;
   color: black;
+}
+.leaflet {
+    margin: auto;
 }
