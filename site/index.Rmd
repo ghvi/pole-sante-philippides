@@ -36,12 +36,14 @@ opts_chunk$set(
 <div class="name">Julie DIBON</div>
 <p>Diététicienne-Naturopathe<br>
 06 29 37 22 64<br>
-dibonjulie(at)gmail(dot)com<br>
+<a href="mailto:dibonjulie&commat;gmail&period;com">dibonjulie&commat;gmail&period;com</a><br>
 <https://dieteticienne-naturopathe.com></p>
 </div>
 <div class="people">
 <div class="name">Alexandre OLIVE</div>
-<p>Ostéopathe D.O.</p>
+<p>Ostéopathe D.O.<br>
+06 22 67 32 49<br>
+<a href="mailto:alexandreolive&period;osteo&commat;hotmail&period;com">alexandreolive&period;osteo&commat;hotmail&period;com</a></p>
 </div>
 </div>
 
@@ -51,6 +53,7 @@ dibonjulie(at)gmail(dot)com<br>
 library(leaflet)
 m <- leaflet() %>%
 	addTiles() %>%  # Add default OpenStreetMap map tiles
+	setView(lng=3.8706, lat=43.6189, zoom=16) %>%
 	addMarkers(lng=3.8706, lat=43.6189, popup="Pôle Santé Philippidès")
 m  # Print the map
 ```
