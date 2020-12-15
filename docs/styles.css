@@ -30,8 +30,9 @@ h6 {
 
 /* Two columns */
 .people {
-  float: left;
-  width: 50%;
+  text-align: center;
+  /* width: 50%; */
+  /* float: left; */
 }
 .people_list:after { /* Clear floats after the columns */
   content: "";

@@ -6,7 +6,6 @@ title: "Pôle Santé Philippidès"
 <br>
 <div class="intro">
 NUTRITION - NATUROPATHIE<br>
-OSTEOPATHIE - REFLEXOLOGIE<br>
 41, av Bouisson Bertrand<br>
 34 090 Montpellier
 </div>
@@ -40,20 +39,6 @@ opts_chunk$set(
 <a href="mailto:dibonjulie&commat;gmail&period;com">dibonjulie&commat;gmail&period;com</a><br>
 <https://dieteticienne-naturopathe.com></p>
 </div>
-<div class="people">
-<div class="name">Alexandre OLIVE</div>
-<p>Ostéopathe D.O.<br>
-06 22 67 32 49<br>
-<a href="mailto:alexandreolive&period;osteo&commat;hotmail&period;com">alexandreolive&period;osteo&commat;hotmail&period;com</a></p>
-</div>
-</div>
-
-<div class="people">
-<div class="name">Virginie DELOLME-FOREST</div>
-<p>Réflexologue<br>
-06 01 95 91 52<br>
-<a href="mailto:virginie&commat;olespieds&period;fr">virginie&commat;olespieds&period;fr</a><br>
-<http://olespieds.fr></p>
 </div>
 
 <br>
